@@ -4,7 +4,8 @@
 If you are interested in source code and have the ability to develop it, you can refer to this URL:  
 
 https://github.com/LontenTechnology/Super_Starter_Kit_for_Arduino_Uno_LTARK-3
-<img src='Picture/3.jpg' width='100%'/>
+
+<img src='3.jpg' width='100%'/>
 
 ### Download
 
